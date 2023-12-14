@@ -1,0 +1,21 @@
+Rapport de séance 1 (Vincent LEGENDRE) :
+
+
+Si nous devions résumer le contenu de cette première séance en une phrase, je dirais que nous avons fait « un bel état des lieux ».
+
+
+Nous avons en effet récupéré les pièces nécessaires à notre projet (même si leurs dimensions n’étaient pas forcément les bonnes) dans les stocks disponibles :
+
+1) Moteur/Servo-moteur (*2)
+2) Fin de courses (*2)
+3) Capteurs de luminosité (*5)
+
+     
+                                                         
+Ensuite, nous avons aussi dû faire face à des imprévus comme par exemple, la dangerosité du dispositif des batteries lithium/ion. Nous avons donc opté pour la solution suivante : installer le CN3761, une pièce permettant de contrôler la charge des batteries. Cela nous a donc poussé à remettre en question la « partie LED » de notre projet (LED s’allumant via l’énergie récoltée par les panneaux solaires).
+
+Nous avons donc convenu de se focaliser premièrement sur le Tournesol et ses fonctionnalités de base (se tourner en fonction de l’intensité lumineuse, se replier sur lui-même…). La stratégie désormais adoptée est la suivante : tester une à une ces dernières pour assembler le tout une fois le travail terminé. Concernant mes tâches, je dois dresser une liste avec les bonnes références des composants (bonnes dimensions + pièces manquantes).
+ 
+CONCLUSION : Cette séance nous a permis d’établir les priorités, et de se rendre compte réellement de ce qui nous attendait en termes de complexité, de planning…
+ 
+ 
