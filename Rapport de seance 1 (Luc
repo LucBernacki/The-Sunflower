@@ -1,0 +1,29 @@
+Rapport de séance 1 (Luc BERNACKI):
+
+Lors de cette première séance nous avons pu réaliser un état des lieux précis sur comment notre projet allait etre articulé.
+
+1. En effet nous avons récupéré la quasi-totalité des pieces fonctionnelles dont nous aurons besoin:
+ - 2 servomoteurs de charge 20k
+ - 5 photoresistors
+ - 2 fin de courses (mauvaise taille cependant)
+ - 1 moteur N20
+et avons fait l'inventaire des pièces encore manquantes telles que des panneaux solaires de tailles bien particulière - des batteries li-ion - puce L293, et aussi des pièces à changer
+(dans l'idéal); comme les fins de courses.
+
+2. Nous avons demandé des conseils aux enseignants concernant notre projet:
+
+De quelle manière cela pouvait etre réalisé et par où commencer, notamment pour bien comprendre comment fonctionnerai notre robot, pièce par pièce. (Nécessité de tester
+les modules un par un puis les assembler). Nous avons aussi reçu des informations, concernant l'imprimante 3D que nous allons devoir utiliser, mais aussi des explications sur des domaines tel
+que les soudures ou la création de cartes personnalisées à faire fabriquer par un technicien.
+
+3. Nous avons localisé là où seraient les difficultés:
+
+Nous avons notamment remis en cause la faisabilité d'une des parties de notre projet qu'est le stockage de l'énergie lumineuse pour sa réutilisation dans des Leds.
+En effet nous avons été averti de la dangerosité des batteries li-ion et des risques encourus si certaines normes n'étaient par respectées, tel que la présence nécessaire 
+d'une autre carte permettant de rendre le stockage de l'énergie dans les batteries plus sûr.
+
+4. Nous nous sommes organisé sur le travail à faire:
+
+Nous avons planifié plus précisèment notre travail à chacun pendant les prochaines séances.
+La semaine prochaine je commencerai à me lancer sérieusement dans le branchements de nos modules à la carte arduino et dans l'étude de leurs fonctionnements. Je m'organiserai pour peut-etre 
+déjà réserver une imprimante 3D du FabLab et commencer à imprimer nos pièces.
